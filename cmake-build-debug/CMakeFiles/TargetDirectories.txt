@@ -1,0 +1,3 @@
+C:/Users/ameli/Documents/Inventor Interoperability/Github/Lab4ArchitekturaKomputerow2/cmake-build-debug/CMakeFiles/Lab4ArchitekturaKomputerow2.dir
+C:/Users/ameli/Documents/Inventor Interoperability/Github/Lab4ArchitekturaKomputerow2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ameli/Documents/Inventor Interoperability/Github/Lab4ArchitekturaKomputerow2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
