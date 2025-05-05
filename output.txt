@@ -1,0 +1,55 @@
+
+Typ obliczeń: SIMD
+Liczba liczb: 2048
+Średni czas: [mikrosekundy]
++ 0.3
+- 0.5
+* 0.2
+/ 0.7
+
+
+Typ obliczeń: SISD
+Liczba liczb: 2048
+Średni czas: [mikrosekundy]
++ 0.5
+- 0.8
+* 0.2
+/ 0.9
+
+
+
+Typ obliczeń: SIMD
+Liczba liczb: 4096
+Średni czas: [mikrosekundy]
++ 0.0
+- 0.0
+* 0.0
+/ 0.0
+
+
+Typ obliczeń: SISD
+Liczba liczb: 4096
+Średni czas: [mikrosekundy]
++ 0.0
+- 0.0
+* 0.0
+/ 0.0
+
+
+
+Typ obliczeń: SIMD
+Liczba liczb: 8192
+Średni czas: [mikrosekundy]
++ 0.0
+- 0.0
+* 0.0
+/ 0.0
+
+
+Typ obliczeń: SISD
+Liczba liczb: 8192
+Średni czas: [mikrosekundy]
++ 0.0
+- 0.0
+* 0.0
+/ 0.0
